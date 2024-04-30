@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-calendly](backend/modules)
 - [django-docusign](backend/modules)
 - [django-disqus](backend/modules)
+- [faq]()
 
 # Getting started: Frontend
 
